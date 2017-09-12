@@ -1,4 +1,4 @@
-## 本项目源自泡泡机器人 paopaoslam
+## 本项目clone源自泡泡机器人 paopaoslam
 
 ## 更多资料请见Wiki和附件
 - Wiki 参考博客
